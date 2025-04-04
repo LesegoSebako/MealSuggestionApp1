@@ -10,7 +10,7 @@ https://github.com/LesegoSebako/MealSuggestionApp1
 
 Youtube link - https://youtu.be/n3JaVpIUujM
 
-PDF Link - 
+PDF Link - https://github.com/LesegoSebako/MealSuggestionApp1/blob/main/Lesego%20Sebako%20-%20IMAD5112%20-%20ASSIGNEMENT%201.pdf
 
 Technical Report: Meal Suggestion App
 
